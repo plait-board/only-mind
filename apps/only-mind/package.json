@@ -1,0 +1,8 @@
+{
+  "name": "@only-mind/only-mind",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "name": "only-mind"
+  }
+}

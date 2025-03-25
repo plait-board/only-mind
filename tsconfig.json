@@ -1,0 +1,13 @@
+{
+  "extends": "./tsconfig.base.json",
+  "compileOnSave": false,
+  "files": [],
+  "references": [
+    {
+      "path": "./apps/only-mind-e2e"
+    },
+    {
+      "path": "./apps/only-mind"
+    }
+  ]
+}

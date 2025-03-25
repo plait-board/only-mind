@@ -1,1 +1,1 @@
-# only-mind
+# OnlyMind
